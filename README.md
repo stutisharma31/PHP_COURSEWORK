@@ -18,4 +18,8 @@ Use of industry best practices such as input validation, error handling, and sec
 Requirements
 XAMPP or WAMP for a local PHP server setup.
 MySQL for database operations.
+<<<<<<< HEAD
 Basic knowledge of HTML, CSS, and JavaScript is recommended.
+=======
+Basic knowledge of HTML, CSS, and JavaScript is recommended.
+>>>>>>> 6c31883a44f5aabf1fa676ddf47591c84deca150
