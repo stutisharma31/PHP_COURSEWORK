@@ -3,7 +3,6 @@ This repository contains the coursework and projects developed while learning PH
 
 Overview
 In this coursework, the following concepts and projects are covered:
-
 Basics of PHP: Understanding syntax, variables, operators, and control structures.
 Form Handling: Collecting and processing data from HTML forms using PHP.
 Database Interaction: Connecting PHP to MySQL for CRUD operations.
@@ -18,8 +17,4 @@ Use of industry best practices such as input validation, error handling, and sec
 Requirements
 XAMPP or WAMP for a local PHP server setup.
 MySQL for database operations.
-<<<<<<< HEAD
-Basic knowledge of HTML, CSS, and JavaScript is recommended.
-=======
-Basic knowledge of HTML, CSS, and JavaScript is recommended.
->>>>>>> 6c31883a44f5aabf1fa676ddf47591c84deca150
+
