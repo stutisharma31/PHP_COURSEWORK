@@ -12,3 +12,4 @@ class MyExample
 }
 $obj=new MyExample();
 ?>
+
