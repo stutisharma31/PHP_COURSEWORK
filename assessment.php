@@ -1,6 +1,6 @@
 <?php
-function divide($num, $den) {
-    if ($den == 0) {
+function divide($p, $q) {
+    if ($q == 0) {
         throw new Exception("Division by zero is not allowed");
     }
     return $num / $den;
