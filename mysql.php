@@ -1,8 +1,8 @@
 <?php
-$username="localhost";
+$servername="localhost";
 $username="root";
 $password="";
-$dbname="fruit";
+$dbname="db";
 $conn=new mysqli($servername,$username,$password,$dbname);
 if($conn->connect_error){
   die("Connection failed".$conn->connect_error);
